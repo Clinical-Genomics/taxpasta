@@ -18,3 +18,8 @@ from .kraken2_profile_reader import Kraken2ProfileReader
 from .kraken2_profile_standardisation_service import (
     Kraken2ProfileStandardisationService,
 )
+from .bracken_profile import BrackenProfile
+from .bracken_profile_reader import BrackenProfileReader
+from .bracken_profile_standardisation_service import (
+    BrackenProfileStandardisationService,
+)
